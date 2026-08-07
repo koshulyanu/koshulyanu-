@@ -3,8 +3,8 @@
 [![NEXETHICS](https://img.shields.io/badge/NEXETHICS-Meta--Architecture-blue)](https://koshulyanu.ru)
 [![BDIF](https://img.shields.io/badge/BDIF-Business%20Digital%20Identity-0088cc)](https://koshulyanu.ru)
 [![DBTI](https://img.shields.io/badge/DBTI-Management%20Systems-orange)](https://koshulyanu.ru)
-[![Founder & CEO](https://img.shields.io/badge/Diright-Founder%20%26%20CEO-red)](https://www.diright.ru)
-[![Foundation](https://img.shields.io/badge/Фонд-%D0%9C%D0%BD%D0%B5%20%D0%BD%D0%B5%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B2%D0%BD%D0%BE-FF6B6B)](https://koshulyanu.ru)
+[![Founder & CEO](https://img.shields.io/badge/Diright-Founder%20%26%20CEO-red)](https://diright.ru)
+[![Foundation](https://img.shields.io/badge/Фонд-%D0%9C%D0%BD%D0%B5%20%D0%BD%D0%B5%20%D0%B2%D1%81%D1%91%20%D1%80%D0%B0%D0%B2%D0%BD%D0%BE-FF6B6B)](https://mnenevseravno.org)
 
 ---
 
@@ -36,7 +36,7 @@ Author of **NEXETHICS**, **BDIF**, and **DBTI** frameworks.
 
 ### Core Identity Assets
 
-[![Website](https://img.shields.io/badge/Website-koshulyanu.ru-blue)](https://koshulyanu.ru)
+[![Website](https://img.shields.io/badge/Personal%20Website-koshulyanu.ru-blue)](https://koshulyanu.ru)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6880--7969-A6CE39)](https://orcid.org/0009-0007-6880-7969)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4)](https://scholar.google.com/citations?hl=ru&user=Zi5-2jAAAAAJ&view_op=list_works&gmla=AO4B3jsH63ha8DDfNCyUinG7WBsyecFCwYlUQaG1kwnQSzgCAgcRWv__SxGRJ9GA7kAvsSMC1hhcC0JSwt9ooPPgA0RT0fuW-UdlR218JI8ngw)
 
@@ -56,7 +56,7 @@ Author of **NEXETHICS**, **BDIF**, and **DBTI** frameworks.
 
 ## 🏢 Company
 
-**Diright** — [www.diright.ru](https://www.diright.ru) | Founder & CEO
+**Diright** — [diright.ru](https://diright.ru) | Founder & CEO
 
 ---
 
@@ -65,6 +65,8 @@ Author of **NEXETHICS**, **BDIF**, and **DBTI** frameworks.
 **Founder & Chairman** of the Social Responsibility Development Fund **“Mne ne vse ravno”**  
 **Основатель и Председатель** Фонда развития социальной ответственности **«Мне не всё равно»**
 
+Подробнее о фонде: [mnenevseravno.org](https://mnenevseravno.org)
+
 ---
 
 ## 📌 Connect with Me / Связаться
@@ -72,5 +74,5 @@ Author of **NEXETHICS**, **BDIF**, and **DBTI** frameworks.
 Я всегда открыт к профессиональному общению и сотрудничеству.  
 I'm always open to professional networking and collaboration.
 
-[![Email](https://img.shields.io/badge/Email-info@koshulyanu.ru-D14836)](mailto:info@koshulyanu.ru)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-koshulyanu.ru-blue)](https://koshulyanu.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@koshulyanu-26A5E4)](https://t.me/koshulyanu)
