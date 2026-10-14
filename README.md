@@ -1,6 +1,6 @@
 # Андрей Кошуляну / Andrey Koshulyanu
 
-[![NEXETHICS](https://img.shields.io/badge/NEXETHICS-Meta--Architecture-blue)](https://koshulyanu.ru/frameworks/nexethics/)
+[![NEXETHICS](https://img.shields.io/badge/NEXETHICS-Meta--Architecture-blue)](https://nexethics.org)
 [![BDIF](https://img.shields.io/badge/BDIF-Business%20Digital%20Identity-0088cc)](https://koshulyanu.ru/frameworks/bdif/)
 [![DBTI](https://img.shields.io/badge/DBTI-Management%20Systems-orange)](https://koshulyanu.ru/frameworks/bdif/dbti/)
 [![Founder & CEO](https://img.shields.io/badge/Diright-Founder%20%26%20CEO-red)](https://diright.ru)
@@ -51,6 +51,35 @@ Author of **NEXETHICS**, **BDIF**, and **DBTI** frameworks.
 [![Habr](https://img.shields.io/badge/Habr-koshulyanu-8A2BE2)](https://habr.com/ru/users/koshulyanu/)
 [![VC.ru](https://img.shields.io/badge/VC.ru-koshulyanu-FF6600)](https://vc.ru/id5472059)
 [![Medium](https://img.shields.io/badge/Medium-@koshulyanu-black)](https://medium.com/@koshulyanu)
+
+---
+
+## 📚 Publications / Публикации
+
+### NEXETHICS — Meta-Architecture for Decision-Making
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23360564.svg)](https://doi.org/10.5281/zenodo.23360564)
+[![GitHub](https://img.shields.io/badge/GitHub-nexethics-blue)](https://github.com/koshulyanu/nexethics)
+[![Website](https://img.shields.io/badge/Website-nexethics.org-blueviolet)](https://nexethics.org)
+
+**Conceptual Paper, v2.1 — 2026-10**  
+Мета-архитектура принятия решений в условиях каскадных рисков и ограниченной прозрачности.
+
+[DOI: 10.5281/zenodo.23360564](https://doi.org/10.5281/zenodo.23360564) • [Исходники](https://github.com/koshulyanu/nexethics) • [nexethics.org](https://nexethics.org)
+
+---
+
+### CTID — Technical Note
+
+*(готовится к публикации)*
+
+### BDIF — Conceptual Paper
+
+*(готовится к публикации)*
+
+### DBTI — Technical Note
+
+*(готовится к публикации)*
 
 ---
 
